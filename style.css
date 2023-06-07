@@ -82,6 +82,18 @@ p {
 	letter-spacing: 0.2rem;
 	text-align: center;
 }
+.secicon{
+	height: 55%;
+    width: 50%;
+    object-fit: cover;
+	align-items: center;
+	margin-left: 115px;
+}
+.mat{
+	color: white;
+    text-align: left;
+	
+}
 .section-title span {
 	color: crimson;
 }
