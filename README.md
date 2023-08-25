@@ -1,4 +1,4 @@
-![Watch Now](./img/Design.jpg)
+![Watch Now](./img/design.png)
 # Portfolio Website (HTML CSS Project)
 
 ---
