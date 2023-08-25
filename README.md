@@ -1,5 +1,5 @@
 ![Watch Now](./img/design.png)
-# Portfolio Website (HTML CSS Project)
+# Portfolio Website (HTML CSS JavaScript Project)
 
 ---
 
